@@ -1,0 +1,12 @@
+C:\Users\Ferdy\source\repos\Crud-Wpf\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Ferdy\source\repos\Crud-Wpf\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Ferdy\source\repos\Crud-Wpf\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Ferdy\source\repos\Crud-Wpf\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Ferdy\source\repos\Crud-Wpf\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Ferdy\source\repos\Crud-Wpf\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Ferdy\source\repos\Crud-Wpf\Crud-Wpf\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Ferdy\source\repos\Crud-Wpf\Crud-Wpf\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Ferdy\source\repos\Crud-Wpf\Crud-Wpf\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Ferdy\source\repos\Crud-Wpf\Crud-Wpf\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Ferdy\source\repos\Crud-Wpf\Crud-Wpf\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Ferdy\source\repos\Crud-Wpf\Crud-Wpf\CapaEntidad\obj\Debug\CapaEntidad.pdb
